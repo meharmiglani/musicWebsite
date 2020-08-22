@@ -7,5 +7,5 @@ This was created as a personal project
 1. Open file register.php to view the registration page.
 2. After you've logged in, you can view index.php and view the website and explore other files from there.
 
-Link to the deployed webiste on Heroku: 
+Link to the deployed website on Heroku: 
 https://tunes-tones.herokuapp.com/register.php
